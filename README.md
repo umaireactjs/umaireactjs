@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React js and Node js**
 
-- 🌱 I’m currently learning **Python and ROR**
+- 🌱 I’m currently learning **To Develop Creative Websites**
 
 - 📫 How to reach me **umairqamar500@gmail.com**
 
