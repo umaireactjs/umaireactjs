@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Umair Qamar</h1>
 <h3 align="center">A passionate Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/93a438565e31dd396c21194436b0f7920889e1d552741112e1513dd2fe1a993a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 
 - 🔭 I’m currently working on **React js and Node js**
 
